@@ -1,2 +1,2 @@
-# Painting_Generator
+# Painting Generator
 Implementation of Creative Adversarial Networks (CANs)
